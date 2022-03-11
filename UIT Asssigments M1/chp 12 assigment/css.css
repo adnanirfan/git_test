@@ -1,0 +1,32 @@
+p#p1 {
+    font-size: 90px;
+    font-weight: bold;
+    color: rgb(255, 23, 23);
+    text-align: center;
+    text-shadow: 1px 1px 3px #666666;
+}
+
+p#p2 {
+    text-align: center;
+    font-size: 25px;
+    color: cadetblue
+}
+
+h4 {
+    text-shadow: 1px 1px 3px #eb9d9d;
+    font-size: 25px;
+    color: red;
+    text-decoration-line: underline
+}
+
+h3 {
+    text-shadow: 1px 1px 3px #666666;
+    font-size: 20px;
+    color: rgb(253, 242, 242);
+    background-color: rgb(199, 194, 194);
+}
+
+p {
+    text-indent: 99px;
+    font-size: medium;
+}

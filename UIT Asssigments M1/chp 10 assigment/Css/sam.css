@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(200,200,200);}
+    h1 {
+    background-color: DarkCyan;}
+    h2 {
+    background-color: #ee3e80;
+padding: 10px;}
+    p {
+    background-color: white;   
+        text-decoration: underline;}
+    p{
+        border: 3px solid black;
+        border-radius: 10px;
+        padding: 10px;       
+    }
+    h1 {
+        font-size: 200%;}
+        h2 {
+        font-size: 1.3em;}
+        p {
+            line-height: 1.4em;}
+            h1, h2 {
+                text-transform: uppercase;
+                letter-spacing: 0.2em;
+                font-weight: bold;
+                word-spacing: 1em;}
+        
